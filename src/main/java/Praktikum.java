@@ -5,7 +5,8 @@ class Praktikum {
         // вызвали метод
         System.out.println(advice.getAdviceOnProcrastination(5));
     }
-// объявили метод getAdviceOnProcrastination с аргументом dice
+
+    // объявили метод getAdviceOnProcrastination с аргументом dice
     public String getAdviceOnProcrastination(int dice) {
         // объявили переменную result
         String result = "тут будет храниться совет";
